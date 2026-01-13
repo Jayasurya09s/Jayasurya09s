@@ -192,7 +192,7 @@ Autonomous systems and smart IoT solutions
  <img src="https://github-readme-stats.vercel.app/api?username=Jayasurya09s&show_icons=true&theme=radical&hide_border=true" width="400"/>
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya09s&theme=radical&hide_border=true" width="400"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya09s&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" width="100%">
+
 
 <!-- Snake Animation -->
 <picture>
