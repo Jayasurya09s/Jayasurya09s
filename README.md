@@ -1,96 +1,227 @@
 <div align="center">
-  
-  <img src="./assets/your_3d_intro.gif" alt="3D Animated Intro: Jayanth Midde" width="100%"/>
-  
-  <h1> Hey, I'm Jayanth Midde </h1>
-  
-  <p>
-    A passionate <strong>Full Stack Developer</strong>, <strong>Blockchain Enthusiast</strong>, and <strong>AI/ML Explorer</strong> — building impactful, scalable, and real-world solutions through code.
-  </p>
-  
-  <a href="https://www.linkedin.com/in/jayanth-midde-968150321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:jayanthjay751@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
-  <a href="./resume/Midde_Jayanth_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
+<!-- Animated Header with Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Midde+Jayanth;Full+Stack+Developer+%F0%9F%9A%80;Blockchain+%26+Web3+Developer;AI%2FML+Engineer;Robotics+%26+IoT+Developer" alt="Typing SVG" />
+
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Jayasurya09s&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
 <div align="center">
-  <h2> About Me</h2>
 
-  <p>
-   <strong>Full Stack Developer:</strong> Building responsive and scalable applications using <strong>MERN stack</strong> and modern web tools. <br>
-   <strong>Blockchain Enthusiast:</strong> Hands-on with <strong>Solidity</strong> and <strong>Hardhat</strong> for smart contracts and decentralized systems. <br>
-   <strong>AI / ML Explorer:</strong> Experience with <strong>Random Forest</strong> and data-driven applications; actively expanding into ML & DL. <br>
-   <strong>Strong Foundations:</strong> Solid grasp of <strong>Data Structures</strong>, <strong>Operating Systems</strong>, and problem solving. <br>
-  </p>
+## 🚀 About Me
+
+I’m **Midde Jayanth**, an Information Science student with a strong interest in building  
+**full-stack applications, AI/ML systems, and blockchain-powered solutions**.
+
+I enjoy working on projects that blend **software engineering with intelligent systems**,  
+especially where web technologies intersect with IoT and robotics.
+
+My focus is on writing **clean, maintainable code** and learning by building real-world systems.
+
+
+<p>
+I'm a Information Science student who enjoys building practical projects that combine software engineering, AI, and hardware systems.
+</p>
+
 </div>
 
 ---
 
 <div align="center">
-  
-  <h2> Tech Stack</h2>
-  
-  <h3> Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C-A8B9C8?style=for-the-badge&logo=c&logoColor=black" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </p>
 
-  <h3> Web Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  </p>
+## 💼 What I Do
 
-  <h3> Blockchain</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" />
-  </p>
+<table>
+<tr>
+<td align="center" width="25%">
 
-  <h3> Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  </p>
+### 🌐 Full Stack
+Building scalable web apps with **MERN Stack**, **TypeScript**, and modern frameworks
+
+**React • Node.js • Express • MongoDB**
+
+</td>
+<td align="center" width="25%">
+
+### ⛓️ Blockchain
+Smart contracts & DApps with **Solidity**, **Web3.js**, and **Hardhat**
+
+**Ethereum • IPFS • MetaMask**
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI/ML
+Machine learning models, computer vision, and AI applications
+
+**TensorFlow • PyTorch • OpenCV**
+
+</td>
+<td align="center" width="25%">
+
+### 🔧 IoT & Robotics
+Autonomous systems and smart IoT solutions
+
+**Arduino • ESP32 • Sensors**
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
 <div align="center">
-  <h2> GitHub Stats</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasurya09s&show_icons=true&theme=radical&hide_border=true" width="400"/>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,solidity&theme=dark" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap,threejs,jquery&theme=dark" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,mongodb,&theme=dark" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### ⛓️ Blockchain & Web3
+<p>
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+</p>
+
+### 🔧 IoT & Robotics
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,&theme=dark" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Hackathons & Events
+
+<div align="center">
+
+| Event | Project | Year |
+|-------|---------|------|
+| Smart India Hackathon 2025 | AntarAtmaa - AI Rockfall Prediction | 2025 |
+| MakerBlitz Hackathon | Glider - Autonomous Flight System | 2024 |
+| CodeUtsava 9.0 — NIT Raipur | JAR - AI Artwork Ownership | 2024 |
+| CypherQuest Hackathon | EcoAI - Prompt Optimizer | 2024 |
+| ByteXync Hackathon | UniTech - Student Productivity Suite | 2024 |
+| Confluence — PES University | StudyAI - Learning Assistant | 2023 |
+| TechTrek Hackathon | Roomigo - PG Finder Platform | 2024 |
+| Ctrl + Alt + Compete — RV College | RAAHI - Disaster Routing System | 2025 |
+| HackMan — Dayananda Sagar | Crop Mentor - Agritech Platform | 2024 |
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayasurya09s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya09s&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya09s&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya09s&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=c9d1d9" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Activity
+ <img src="https://github-readme-stats.vercel.app/api?username=Jayasurya09s&show_icons=true&theme=radical&hide_border=true" width="400"/>
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya09s&theme=radical&hide_border=true" width="400"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya09s&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" width="100%">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayasurya09s/Jayasurya09s/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayasurya09s/Jayasurya09s/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jayasurya09s/Jayasurya09s/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
-  <h2> Let's Build Something Meaningful</h2>
-  <p>
-     Interested in internships, hackathons, and collaborative projects. <br>
-     Always open to learning and building impactful technology.
-  </p>
 
-  <p><strong>"Code. Learn. Build. Repeat."</strong></p>
+## 🤝 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/jayanth-midde-968150321/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jayanthjay751@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Jayasurya09s">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Development Mindset
+
+```javascript
+while (learning) {
+    build();
+    improve();
+    repeat();
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+⭐ **Thanks for visiting! Feel free to explore my repositories.**
+
 </div>
