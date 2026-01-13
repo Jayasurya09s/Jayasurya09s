@@ -32,6 +32,26 @@ I'm a Information Science student who enjoys building practical projects that co
 
 </div>
 
+
+---
+<div align="center">
+
+## 🤝 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/jayanth-midde-968150321/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jayanthjay751@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Jayasurya09s">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</div>
+
 ---
 
 <div align="center">
@@ -182,41 +202,9 @@ Autonomous systems and smart IoT solutions
 
 ---
 
-<div align="center">
 
-## 🤝 Let's Connect
 
-<p>
-<a href="https://www.linkedin.com/in/jayanth-midde-968150321/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:jayanthjay751@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Jayasurya09s">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-A855F7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 Development Mindset
-
-```javascript
-while (learning) {
-    build();
-    improve();
-    repeat();
-}
-```
-
-</div>
-
----
 
 <div align="center">
 
