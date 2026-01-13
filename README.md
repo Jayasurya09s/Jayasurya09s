@@ -40,13 +40,16 @@ I'm a Information Science student who enjoys building practical projects that co
 
 <p>
 <a href="https://www.linkedin.com/in/jayanth-midde-968150321/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jayanthjay751@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Jayasurya09s">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+ <a href="https://jayanthmidde.vercel.app/">
+<img src="https://img.shields.io/badge/Portifolio-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
