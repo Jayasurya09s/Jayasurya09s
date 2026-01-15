@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I’m **Midde Jayanth**, an Information Science student with a strong interest in building  
+I'm **Midde Jayanth**, an Information Science student with a strong interest in building  
 **full-stack applications, AI/ML systems, and blockchain-powered solutions**.
 
 I enjoy working on projects that blend **software engineering with intelligent systems**,  
@@ -25,15 +25,10 @@ especially where web technologies intersect with IoT and robotics.
 
 My focus is on writing **clean, maintainable code** and learning by building real-world systems.
 
-
-<p>
-I'm a Information Science student who enjoys building practical projects that combine software engineering, AI, and hardware systems.
-</p>
-
 </div>
 
-
 ---
+
 <div align="center">
 
 ## 🤝 Let's Connect
@@ -48,8 +43,8 @@ I'm a Information Science student who enjoys building practical projects that co
 <a href="https://github.com/Jayasurya09s">
 <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
- <a href="https://jayanthmidde.vercel.app/">
-<img src="https://img.shields.io/badge/Portifolio-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://jayanthmidde.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
@@ -118,7 +113,7 @@ Autonomous systems and smart IoT solutions
 
 ### ⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,mongodb,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,mongodb&theme=dark" />
 </p>
 
 ### 🤖 AI/ML & Data Science
@@ -131,7 +126,7 @@ Autonomous systems and smart IoT solutions
 
 ### ⛓️ Blockchain & Web3
 <p>
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" />
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
@@ -145,7 +140,7 @@ Autonomous systems and smart IoT solutions
 
 ### 🛠️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" />
 </p>
 
 </div>
@@ -155,8 +150,6 @@ Autonomous systems and smart IoT solutions
 <div align="center">
 
 ## 🏆 Hackathons & Events
-
-<div align="center">
 
 | Event | Project | Year |
 |-------|---------|------|
@@ -170,17 +163,21 @@ Autonomous systems and smart IoT solutions
 | Ctrl + Alt + Compete — RV College | RAAHI - Disaster Routing System | 2025 |
 | HackMan — Dayananda Sagar | Crop Mentor - Agritech Platform | 2024 |
 
+</div>
+
 ---
 
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayasurya09s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayasurya09s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya09s&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 
+<br/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya09s&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya09s&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=c9d1d9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jayasurya09s&theme=radical&utcOffset=5.5" />
 
 </div>
 
@@ -189,10 +186,10 @@ Autonomous systems and smart IoT solutions
 <div align="center">
 
 ## 📈 Contribution Activity
- <img src="https://github-readme-stats.vercel.app/api?username=Jayasurya09s&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya09s&theme=radical&hide_border=true" width="400"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya09s&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7" width="98%"/>
+
+<br/>
 
 <!-- Snake Animation -->
 <picture>
@@ -204,10 +201,6 @@ Autonomous systems and smart IoT solutions
 </div>
 
 ---
-
-
-
-
 
 <div align="center">
 
